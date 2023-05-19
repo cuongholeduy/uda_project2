@@ -52,4 +52,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### Link to the running elastic beanstalk deployment
 
-http://image-filter-starter-code-dev2222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i1-vnexpress.vnecdn.net/2023/05/18/ta-u-trung-quo-c-1684404303-16-7730-6030-1684404454.jpg?w=680%26h=408%26q=100%26dpr=1%26fit=crop%26s=_X__YZvkqdXFQu8GI5bRWw
+[Udagram Project 2](http://image-filter-starter-code-dev2222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://i1-vnexpress.vnecdn.net/2023/05/18/ta-u-trung-quo-c-1684404303-16-7730-6030-1684404454.jpg?w=680%26h=408%26q=100%26dpr=1%26fit=crop%26s=_X__YZvkqdXFQu8GI5bRWw)
